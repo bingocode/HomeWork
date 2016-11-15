@@ -11,6 +11,7 @@
 </head>
 <body>
 <b>Hello this is Bingo Home</b>
+<b> And Bingocode too</b>
 </body>
 </html>
 
